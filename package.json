@@ -1,0 +1,19 @@
+{
+  "name": "@adent/message-broker",
+  "version": "1.0.0",
+  "description": "MQTT-like message broker",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maly/message-broker.git"
+  },
+  "author": "Martin Maly <maly@maly.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maly/message-broker/issues"
+  },
+  "homepage": "https://github.com/maly/message-broker#readme"
+}

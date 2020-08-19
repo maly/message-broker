@@ -15,6 +15,9 @@ topic patterns:
 - /x/+/z
 - /x/*
 
+npm init --scope=@adent
+npm publish --access=public
+
 
  */
 
